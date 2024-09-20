@@ -5,16 +5,26 @@ To write a program to predict the type of species of the Iris flower using the S
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-## Algorithm
-1. Load the Iris Dataset
-2. Create a DataFrame
-3. Split Features and Target
-4. Train-Test Split
-5. Create and Train SGD Classifier
-6. Make Predictions
-7. Evaluate the Classifier
-
+   
+## Alogithm:
+## Step 1.
+Start the program
+## Step 2. 
+Load the Iris Dataset
+## Step 3. 
+Create a DataFrame
+## Step 4. 
+Split Features and Target
+## Step 5. 
+Train-Test Split
+## Step 6. 
+Create and Train SGD Classifier
+## Step 7. 
+Make Predictions
+## Step 8. 
+Evaluate the Classifier
+## Step 9.
+End the program
    
 ## Program:
 ```
